@@ -1,3 +1,7 @@
 language: ruby
 rvm:
+<<<<<<< HEAD
   - 1.9.3
+=======
+  - 1.9.3
+>>>>>>> ddd306c5c86a70d8cf5a8bfdf7b43f007a43f80e
