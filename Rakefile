@@ -1,4 +1,5 @@
-require 'rake'
-require 'rake/testtask'
-require 'rake/rdoctask'
+task :default => [:test]
 
+task :test do
+  ruby "test/helloworld.rb"
+end
